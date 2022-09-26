@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Benz404
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning machine learning and AI
-- 💞️ I’m looking to collaborate on web development project
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 reach me on banajitraj007@gmail.com
 
 <!---
